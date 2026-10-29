@@ -1,5 +1,7 @@
-# Repository scheduled for removal
+# openclaw-free-ride — scaffold
 
-This repository is empty. Related `openclaw-free-ride-archive*` repositories contain snapshots of an external project and are not original MilliganCo portfolio work.
+Historical placeholder; attributed third-party source snapshots are in archive repositories.
 
-Do not publish or develop this repository. Remove the entire duplicate group after checking external installation references.
+Status verified on 2026-10-29. This repository is public for transparency of the original project archive. It must not be presented as completed or functional software.
+
+Attributed third-party archives: https://github.com/MilliganCo/openclaw-free-ride-archive and https://github.com/MilliganCo/openclaw-free-ride-archive-2
